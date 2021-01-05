@@ -1,0 +1,12 @@
+main: com.versuchdrei.overflowbag.Main
+name: OverflowBag
+version: 0.1
+description: A plugin to manage the overflow items from a trade.
+api-version: 1.16
+author: MNuessing
+depend: [MenuManager, DataManager]
+
+commands:
+  overflowbag:
+    description: Opens the menu to get to the overflowbag.
+    usage: /<command>
